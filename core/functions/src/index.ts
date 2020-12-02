@@ -11,7 +11,7 @@ const bootstrap = () => {
   if (!db) {
     initializeApp({
       credential: credential.applicationDefault(),
-      databaseURL: 'https://oussa-io.firebaseio.com'
+      databaseURL: 'https://league-of-code-7b550.firebaseio.com/'
     });
 
     db = firestore();

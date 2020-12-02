@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "adventofcode",
+    "site": "klarnadventofcode",
     "public": "build",
     "ignore": [
       "firebase.json",
